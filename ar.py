@@ -39,20 +39,3 @@ while ch<5:
       break
     else:
       print("Invalid choice")
-
-
-
-
-
-
-     
-
-
-
-
-
-
-
-
-
-
